@@ -1,1 +1,1 @@
-# hosting
+Only used for documentation
